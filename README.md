@@ -7,7 +7,9 @@
    **Feature**
    
    GOOGLE LOGO: Displays the google logo at the center of the page.
+   
    SEARCH BAR: mimics the functionally and appearance of the google search bar.
+   
    BUTTONS: 'Google search' and 'Im Feeling Lucky' are the buttons included.
 
    
